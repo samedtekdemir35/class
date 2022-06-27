@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_SMD_GEN</CLSNAME>
+    <LANGU>T</LANGU>
+    <DESCRIPT>General</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SMD_GEN</CLSNAME>
+     <CMPNAME>C_FALSE</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Seçme kutusu</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SMD_GEN</CLSNAME>
+     <CMPNAME>C_MESSAGE_TYPE_A</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tek basamaklı gösterge</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SMD_GEN</CLSNAME>
+     <CMPNAME>C_MESSAGE_TYPE_E</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tek basamaklı gösterge</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SMD_GEN</CLSNAME>
+     <CMPNAME>C_MESSAGE_TYPE_I</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tek basamaklı gösterge</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SMD_GEN</CLSNAME>
+     <CMPNAME>C_MESSAGE_TYPE_S</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tek basamaklı gösterge</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SMD_GEN</CLSNAME>
+     <CMPNAME>C_MESSAGE_TYPE_W</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tek basamaklı gösterge</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SMD_GEN</CLSNAME>
+     <CMPNAME>C_MESSAGE_TYPE_X</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tek basamaklı gösterge</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SMD_GEN</CLSNAME>
+     <CMPNAME>C_NO</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tek basamaklı gösterge</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SMD_GEN</CLSNAME>
+     <CMPNAME>C_TRUE</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Seçme kutusu</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SMD_GEN</CLSNAME>
+     <CMPNAME>C_YES</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tek basamaklı gösterge</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
